@@ -1,0 +1,1 @@
+/usr/bin/c++  -ggdb -O -std=c++14  -L/usr/lib64/mysql -lmysqlclient -rdynamic CMakeFiles/test_log.dir/tests/test_log.cc.o -o ../bin/test_log   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/root/Job/dejavu/lib ../lib/libkong.so -lpthread 

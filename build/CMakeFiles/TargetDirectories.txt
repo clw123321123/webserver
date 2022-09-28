@@ -1,0 +1,8 @@
+/root/Job/dejavu/build/CMakeFiles/rebuild_cache.dir
+/root/Job/dejavu/build/CMakeFiles/edit_cache.dir
+/root/Job/dejavu/build/CMakeFiles/kong_static.dir
+/root/Job/dejavu/build/CMakeFiles/main.dir
+/root/Job/dejavu/build/CMakeFiles/test_log.dir
+/root/Job/dejavu/build/CMakeFiles/kong.dir
+/root/Job/dejavu/build/CMakeFiles/test_sql.dir
+/root/Job/dejavu/build/CMakeFiles/test_thread.dir
